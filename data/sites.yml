@@ -98,6 +98,7 @@ built:
     source: https://github.com/projectatomic/atomic-site
   - url: http://pi.tafkas.net/
     source: https://github.com/Tafkas/my-raspberry-pi-site
+  - url: http://meandkareem.com
 mobile:
   - url: http://pollev.com
 blogs:
